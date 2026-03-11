@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=7C26A8&center=true&vCenter=true&width=900&lines=Codebymahe+-+Future+Software+Developer" />
   </a>
 </p>
-<p align="center">────────────────────────────────────────── ✦ ───────────────────────────────────────────</p>
+<p align="center">───────────────────────────────────────── ✦ ─────────────────────────────────────────</p>
 
 <h2>Tech Skills</h2>
 
@@ -20,7 +20,7 @@
 
 <br>
 
-<p align="center">─────────────────────────────────────────── ✦ ───────────────────────────────────────────</p>
+<p align="center">───────────────────────────────────────── ✦ ─────────────────────────────────────────</p>
 
 
 <h2>Connect with me</h2>
