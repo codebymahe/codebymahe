@@ -7,7 +7,7 @@
 </p>
 <p align="center">───────────────────────────────────────── ✦ ─────────────────────────────────────────</p>
 
-<h2>Tech Skills</h2>
+<h2 align="center">Tech Skills</h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" height="38"/>
@@ -23,9 +23,9 @@
 <p align="center">───────────────────────────────────────── ✦ ─────────────────────────────────────────</p>
 
 
-<h2>Connect with me</h2>
+<h2 align="center">Connect with me</h2>
 
-<p>
+<p  align="center">
 <a href="https://instagram.com/mariaahello_" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
